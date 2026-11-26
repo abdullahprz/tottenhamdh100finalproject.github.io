@@ -1,0 +1,497 @@
+{
+  "version": 8,
+  "name": "Tottenham screenshot timeline",
+  "sources": {
+    "base-live": {
+      "type": "raster",
+      "tileSize": 256,
+      "maxzoom": 19,
+      "tiles": [
+        "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+      ],
+      "attribution": "Imagery: Esri, Maxar, Earthstar Geographics, GIS User Community"
+    },
+    "img-1999-09": {
+      "type": "image",
+      "url": "images/1999-09.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2003-10": {
+      "type": "image",
+      "url": "images/2003-10.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2003-12": {
+      "type": "image",
+      "url": "images/2003-12.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2005-09": {
+      "type": "image",
+      "url": "images/2005-09.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2006-09": {
+      "type": "image",
+      "url": "images/2006-09.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2009-09": {
+      "type": "image",
+      "url": "images/2009-09.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2010-06": {
+      "type": "image",
+      "url": "images/2010-06.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2011-06": {
+      "type": "image",
+      "url": "images/2011-06.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2013-07": {
+      "type": "image",
+      "url": "images/2013-07.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2015-06": {
+      "type": "image",
+      "url": "images/2015-06.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2017-04": {
+      "type": "image",
+      "url": "images/2017-04.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2018-05": {
+      "type": "image",
+      "url": "images/2018-05.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2019-06": {
+      "type": "image",
+      "url": "images/2019-06.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2020-04": {
+      "type": "image",
+      "url": "images/2020-04.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    },
+    "img-2022-03": {
+      "type": "image",
+      "url": "images/2022-03.jpg",
+      "coordinates": [
+        [
+          -0.0753124,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6076008
+        ],
+        [
+          -0.0572741,
+          51.6007723
+        ],
+        [
+          -0.0753124,
+          51.6007723
+        ]
+      ]
+    }
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#1b1f23"
+      }
+    },
+    {
+      "id": "base-live",
+      "type": "raster",
+      "source": "base-live",
+      "paint": {
+        "raster-opacity": 1
+      }
+    },
+    {
+      "id": "img-1999-09",
+      "type": "raster",
+      "source": "img-1999-09",
+      "paint": {
+        "raster-opacity": 1,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2003-10",
+      "type": "raster",
+      "source": "img-2003-10",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2003-12",
+      "type": "raster",
+      "source": "img-2003-12",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2005-09",
+      "type": "raster",
+      "source": "img-2005-09",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2006-09",
+      "type": "raster",
+      "source": "img-2006-09",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2009-09",
+      "type": "raster",
+      "source": "img-2009-09",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2010-06",
+      "type": "raster",
+      "source": "img-2010-06",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2011-06",
+      "type": "raster",
+      "source": "img-2011-06",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2013-07",
+      "type": "raster",
+      "source": "img-2013-07",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2015-06",
+      "type": "raster",
+      "source": "img-2015-06",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2017-04",
+      "type": "raster",
+      "source": "img-2017-04",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2018-05",
+      "type": "raster",
+      "source": "img-2018-05",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2019-06",
+      "type": "raster",
+      "source": "img-2019-06",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2020-04",
+      "type": "raster",
+      "source": "img-2020-04",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    },
+    {
+      "id": "img-2022-03",
+      "type": "raster",
+      "source": "img-2022-03",
+      "paint": {
+        "raster-opacity": 0,
+        "raster-fade-duration": 0
+      }
+    }
+  ]
+}
